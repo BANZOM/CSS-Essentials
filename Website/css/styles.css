@@ -1,0 +1,46 @@
+/* 
+COLOR PALETTE
+
+Dark green    #3c8453
+Sandy beige   #bcaa96
+Dark gray     #222222
+Light gray    #d3d4d6
+Off-white     #f6f6f6 
+*/
+
+/* Global styles 
+---------------------------------------*/
+body {
+    background: #f6f6f6;
+}
+
+/* Home Page
+---------------------------------------*/
+.home {
+    background: url("./../images/bg-home-office-studio.jpg") no-repeat;
+    background-size: cover;
+}
+
+.home .container-wrapper {
+    background: rgb(255 255 255 / 0.9); 
+}
+
+/* Resume Page
+---------------------------------------*/
+
+/* Project section
+---------------------------------------*/
+
+/* Work Experience section
+---------------------------------------*/
+
+/* Education section
+---------------------------------------*/
+
+
+/* Footer
+---------------------------------------*/
+footer {
+    background: rgb(75 69 69);
+    color: #d3d4d6;
+}
